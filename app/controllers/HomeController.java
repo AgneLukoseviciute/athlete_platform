@@ -26,12 +26,12 @@ public class HomeController extends Controller {
         return ok(views.html.index.render(req, listAll));
     }
 
-    public Result men(Http.Request req) {
+    public Result women(Http.Request req) {
         return ok(views.html.index.render(req, new ArrayList<>()));
     }
 
-    public Result women() {
-        return ok(views.html.women.render());
+    public Result men() {
+        return ok(views.html.men.render());
     }
     
     public Result toplist() {
