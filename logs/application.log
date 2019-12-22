@@ -1,8 +1,22 @@
-2019-12-12 12:51:18,656 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-6 - Database [master] initialized at jdbc:mysql://localhost/athletes1
-2019-12-12 12:51:18,666 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'master'
-2019-12-12 12:51:19,535 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-6 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+2019-12-22 22:26:48,400 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2 - Database [master] initialized at jdbc:mysql://localhost/athletes1
+2019-12-22 22:26:48,411 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'master'
+2019-12-22 22:26:49,529 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
 
-2019-12-12 12:51:19,607 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-6 - Application started (Dev) (no global state)
-2019-12-12 12:51:32,661 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-2 - Stopping server...
-2019-12-12 12:51:32,675 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
+2019-12-22 22:26:49,606 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev) (no global state)
+2019-12-22 22:27:05,655 [INFO] from application in application-akka.actor.default-dispatcher-8 - Shutting down connection pool.
+2019-12-22 22:27:05,836 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2 - Database [master] initialized at jdbc:mysql://localhost/athletes1
+2019-12-22 22:27:05,837 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'master'
+2019-12-22 22:27:05,888 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+
+2019-12-22 22:27:05,939 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev) (no global state)
+2019-12-22 22:27:42,780 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2019-12-22 22:27:42,918 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2 - Database [master] initialized at jdbc:mysql://localhost/athletes1
+2019-12-22 22:27:42,918 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'master'
+2019-12-22 22:27:42,954 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+
+2019-12-22 22:27:43,000 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev) (no global state)
+2019-12-22 22:28:21,192 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-2 - Stopping server...
+2019-12-22 22:28:21,197 [INFO] from application in application-akka.actor.default-dispatcher-3 - Shutting down connection pool.
